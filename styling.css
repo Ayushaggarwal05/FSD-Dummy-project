@@ -1,0 +1,21 @@
+html{
+    margin: 0;
+}
+
+ul.navbar{
+    margin: 0;
+    padding: 10px;
+    margin-left: 0;
+}
+ol.navbar1{
+    background-color: black;
+    color: aliceblue;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 600;
+
+}
